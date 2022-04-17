@@ -12,7 +12,7 @@ connectionEstablished = False
 authToken = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(12))
 encoding = "utf-8"
 fps = 10
-resScaler = 400
+resScaler = 200
 keyboardController = Controller()
 keyboardControls = True
 
